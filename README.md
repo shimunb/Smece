@@ -1,0 +1,2 @@
+# Smece
+Automatic basketball training
